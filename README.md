@@ -16,11 +16,17 @@ Berikut adalah topologi yang harus dibuat
 2. File yang didemokan adalah file .pkt yang telah dikirim ke asisten.
 3. Pengurangan nilai akan dilakukan ketika:
     a. Melanggar salah satu dari tulisan diatas.
+    
     b. Tidak menggunakan PREFIX ip yang ditetapkan sebelumnya
+    
     c. Hasil perhitungan untuk VLSM / CIDR, berbeda dengan di CPT / GNS3
+    
     d. Pembagian IP kurang efisien
+    
     e. Routing kurang efisien
+    
     f. Tidak bisa menjelaskan cara perhitungan VLSM dan CIDR
+    
   Ralat: Tidak perlu menggunakan DHCP untuk pembagian IP pada GNS3
 ## Jawaban
 Berikut merupakan Topologi yang sudah kami buat:
