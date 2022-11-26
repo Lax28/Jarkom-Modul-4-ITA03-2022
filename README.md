@@ -15,6 +15,7 @@ Berikut adalah topologi yang harus dibuat
 1. Hasil perhitungan subnetting dan pohon pembagian IP serta file .pkt dikirim ke email asisten penguji 
 2. File yang didemokan adalah file .pkt yang telah dikirim ke asisten.
 3. Pengurangan nilai akan dilakukan ketika:
+4. 
     a. Melanggar salah satu dari tulisan diatas.
     
     b. Tidak menggunakan PREFIX ip yang ditetapkan sebelumnya
@@ -27,7 +28,7 @@ Berikut adalah topologi yang harus dibuat
     
     f. Tidak bisa menjelaskan cara perhitungan VLSM dan CIDR
     
-  Ralat: Tidak perlu menggunakan DHCP untuk pembagian IP pada GNS3
+    Ralat: Tidak perlu menggunakan DHCP untuk pembagian IP pada GNS3
 ## Jawaban
 Berikut merupakan Topologi yang sudah kami buat:
 ![image](https://user-images.githubusercontent.com/90241858/204080414-d65e37b5-e7bb-4988-b744-7b8900621248.png)
