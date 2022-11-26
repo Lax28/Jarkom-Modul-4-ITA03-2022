@@ -24,7 +24,8 @@ Berikut adalah topologi yang harus dibuat
   Ralat: Tidak perlu menggunakan DHCP untuk pembagian IP pada GNS3
 ## Jawaban
 Berikut merupakan Topologi yang sudah kami buat:
-![image](https://user-images.githubusercontent.com/90241858/204080354-720c7782-841c-44ff-81bc-315154fc0c9c.png)
+![image](https://user-images.githubusercontent.com/90241858/204080414-d65e37b5-e7bb-4988-b744-7b8900621248.png)
+
 
 
 ## Kendala
