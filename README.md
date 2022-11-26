@@ -15,7 +15,7 @@ Berikut adalah topologi yang harus dibuat
 1. Hasil perhitungan subnetting dan pohon pembagian IP serta file .pkt dikirim ke email asisten penguji 
 2. File yang didemokan adalah file .pkt yang telah dikirim ke asisten.
 3. Pengurangan nilai akan dilakukan ketika:
-4. 
+
     a. Melanggar salah satu dari tulisan diatas.
     
     b. Tidak menggunakan PREFIX ip yang ditetapkan sebelumnya
